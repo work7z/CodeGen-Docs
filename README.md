@@ -2,7 +2,7 @@
 
 Dear User,
 
-Thank you for downloading CodeGen ToolBox! We would like to introduce its functions and common questions for our users in the following chapters.
+Thank you for downloading CodeGen ToolBox! We would like to introduce its functions and common questions for you in the following chapters.
 
 There are multiple language versions that you can choose, please kindly refer to the links as below:
 
