@@ -1,7 +1,4 @@
-# CodeGen-Docs
-CodeGen Official Documentation
-
-
+# CodeGen Docs
 Dear User,
 
 Thank you for using CodeGen ToolBox! We would like to introduce its functions and common questions for our users in the following chapters. 
