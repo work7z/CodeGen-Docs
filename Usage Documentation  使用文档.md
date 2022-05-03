@@ -2,7 +2,7 @@
 
 Dear User,
 
-Thank you for using CodeGen ToolBox! We would like to introduce its functions and present the FAQ list for you in the following docs. 
+Thank you for using CodeGen ToolBox! We would like to introduce its functions and common questions for our users in the following chapters. 
 
 Please kindly refer to the menu on the left, there are multiple language versions that you can choose. 
 
@@ -13,10 +13,9 @@ CodeGen ToolBox
 
 亲爱的用户,
 
-十分感谢您使用CodeGen工具箱! 我们将介绍它的功能，并在以下文档中为您呈现FAQ列表。
+感谢您使用CodeGen ToolBox!在接下来的章节中，我们将为我们的用户介绍它的功能和常见问题。
 
 请参考左边的菜单，有多种语言版本可供选择。
-
 
 此致
 敬礼
@@ -40,9 +39,7 @@ Last but not least, since CodeGen is still under the Beta version. If you encoun
 友情提醒，请勿从任何不可信的网站下载或升级CodeGen，它可能会给您带来意想不到的潜在风险，如病毒、广告、信息泄露等。
 
 
-
 我们已经在Github上发布了它的客户端源代码，了解更多请参考以下链接。
-
 
 
 —官方网站:https://codegen.cc
